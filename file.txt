@@ -1,2 +1,2 @@
-This is line 1, I wrote on local machine
+This is line 1, I wrote on local machine and updated on local machine
 This is line 2, I wrote on server, and now I am updating it on server
